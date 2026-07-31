@@ -12,3 +12,4 @@ git branch
 
 git push RemoteName Branch
  
+git pull RemoteName 
